@@ -1,0 +1,173 @@
+.profilecontent table {
+    box-shadow: 10px 6px 10px #ddd;
+    margin-top: 30px;
+}
+
+.profilecontent {
+    margin-top: 30px;
+}
+
+.profilecontent:nth-child(2) {
+    margin-bottom: 30px;
+}
+
+.profilecontent th {
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 600;
+    color: #212529;
+    background-color: #ddd;
+}
+
+.profilecontent td {
+    text-transform: initial;
+    font-size: 12px;
+    font-weight: 300;
+    text-align: left;
+}
+
+td a {
+    color: #2f6ac8;
+    text-align: center;
+}
+
+.profilecontent h2 {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #0E2DA5;
+}
+
+.l-md-6 {
+    background-image: url(../../assests/images/rightlog.jpeg);
+    background-size: contain;
+    background-position: center;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    position: fixed;
+}
+
+.r-md-6 {
+    padding: 80px 50px;
+    margin-left: 700px;
+    position: absolute !important;
+    top: 100px;
+    height: 100vh;
+    overflow: scroll;
+}
+
+.r-md-6 input {
+    text-transform: capitalize;
+    font-size: 13px !important;
+    padding: 15px 0px !important;
+    border-bottom: 1px solid #c0c9d4 !important;
+    color: #555;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0px;
+    background-color: #fcfcfc;
+}
+
+.r-md-6 input:focus {
+    box-shadow: none !important;
+    border-bottom: 1px solid #c0c9d4 !important;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0px;
+    background-color: #fcfcfc;
+}
+
+.r-md-6 label {
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #555;
+}
+
+.profilecontent table {
+    box-shadow: 10px 6px 10px #ddd;
+    margin-top: 30px;
+}
+
+.profilecontent {
+    margin-top: 30px;
+}
+
+.profilecontent:nth-child(2) {
+    margin-bottom: 30px;
+}
+
+.profilecontent th {
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 600;
+    color: #212529;
+    background-color: #ddd;
+}
+
+.profilecontent td {
+    text-transform: initial;
+    font-size: 12px;
+    font-weight: 300;
+    text-align: left;
+}
+
+td a {
+    color: #2f6ac8;
+    text-align: center;
+}
+
+.profilecontent h2 {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #2f6ac8;
+}
+
+.l-md-6 {
+    background-image: url(../../assests/images/rightlog.jpeg);
+    background-size: contain;
+    background-position: left;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    position: fixed;
+}
+
+.r-md-6 {
+    padding: 80px 50px;
+    margin-left: 700px;
+    position: absolute !important;
+    top: 100px;
+    height: 100vh;
+    overflow: scroll;
+}
+
+.r-md-6 input {
+    text-transform: capitalize;
+    font-size: 13px !important;
+    padding: 15px 0px !important;
+    border-bottom: 1px solid #c0c9d4 !important;
+    color: #555;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0px;
+    background-color: #fcfcfc;
+}
+
+.r-md-6 input:focus {
+    box-shadow: none !important;
+    border-bottom: 1px solid #c0c9d4 !important;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0px;
+    background-color: #fcfcfc;
+}
+
+.r-md-6 label {
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #555;
+}

@@ -1,0 +1,147 @@
+.adduer {
+    position: absolute;
+    top: 0;
+    margin-left: 70px;
+    left: 0;
+    font-size: 18px;
+    padding: 5px 20px;
+    cursor: pointer;
+    color: #0E2DA5 !important;
+}
+
+nav.nav.nav-tabs {
+    padding: 0px 20px;
+    border-bottom: 0px !important;
+    position: relative;
+    margin: 0px 90px;
+    box-shadow: none;
+}
+
+
+.nav-tabs {
+    border-bottom: 1px solid #dee2e6;
+    box-shadow: 2px 2px 2px #ddd;
+}
+
+.chld .icon a {
+    color: #0E2DA5;
+}
+
+.butn2 .btn-1 button {
+    padding: 5px 10px !important;
+    font-size: 12px !important;
+    background: #E3324C !important;
+    border: 1px solid #E3324C !important;
+    color: #fff !important;
+}
+
+.butn2 .btn-1 button:hover {
+    padding: 5px 10px !important;
+    font-size: 12px !important;
+    background: #fcfcfc !important;
+    border: 1px solid #E3324C !important;
+    color: #E3324C !important;
+}
+
+.butn2 .btn-2 button {
+    padding: 5px 10px !important;
+    font-size: 12px !important;
+    background: #0E2DA5 !important;
+    border: 1px solid #0E2DA5 !important;
+    color: #fff !important;
+}
+
+.butn2 .btn-2 button:hover {
+    padding: 5px 10px !important;
+    font-size: 12px !important;
+    background: #fcfcfc !important;
+    border: 1px solid #0E2DA5 !important;
+    color: #326dcc !important;
+}
+
+.butn2 {
+    margin-top: 20px;
+}
+
+.butn2 button:hover {
+    background-color: #fcfcfc !important;
+    color: #E3324C !important;
+
+}
+
+.safe1 {
+    background: #e5e8f0;
+    padding: 50px 80px;
+    min-height: 100vh;
+}
+
+.chld p span {
+    color: #000 !important;
+}
+
+.chld p {
+    font-size: 12px;
+    text-transform: uppercase;
+    margin: 0px;
+    padding-bottom: 10px;
+    color: #6d7f77;
+    font-weight: 600;
+}
+
+.chld {
+    border: 1px solid #fff;
+    padding: 20px 10px;
+    background: #fcfcfc;
+}
+
+.pd12 {
+    padding: 0px 30px;
+}
+
+.nav-link {
+    color: #0E2DA5 !important;
+    border: none !important;
+    padding-bottom: 25px;
+    position: relative;
+}
+
+.nav-link.active:before {
+    content: "";
+    display: block;
+    background-color: #0E2DA5;
+    width: 70%;
+    height: 4px;
+    float: left;
+    bottom: 0;
+    margin: 0 6px 0 0;
+    position: absolute;
+}
+
+.userboard {
+    margin-top: 100px;
+    min-height: 100vh;
+}
+
+
+
+.userboard nav a {
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #0E2DA5 !important;
+}
+
+
+input,
+select {
+    text-transform: capitalize;
+    font-size: 12px !important;
+    padding: 15px 0px !important;
+    border-bottom: 1px solid #c0c9d4!important;
+    color: #555;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-radius: 0px;
+    background-color: #fff !important;
+}

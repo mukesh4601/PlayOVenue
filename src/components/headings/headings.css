@@ -1,0 +1,13 @@
+.heading p {
+    font-size: 14px;
+    color: #746370;
+    font-weight: 500;
+}
+
+.heading h2 {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #212529;
+    font-weight: 600;
+    color: #0E2DA5;
+}

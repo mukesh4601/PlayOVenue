@@ -1,0 +1,18 @@
+.navigation {
+    background-color: #0E2DA5 !important;
+    z-index: 500;
+    position: fixed;
+    width: 100%;
+    padding: 20px;
+    padding-left: 80px;
+}
+
+.navigation a {
+    font-size: 16px;
+    color: #fff !important;
+    text-transform: capitalize;
+    font-weight: 500;
+    text-decoration: none;
+    cursor: pointer;
+    margin-right: 20px;
+}

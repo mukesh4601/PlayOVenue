@@ -1,0 +1,12 @@
+.extend .f-12
+{
+    margin: 20px 0px !important;
+}
+.extend .f-12 label{
+    text-transform: uppercase;
+    font-size: 12px;
+}
+.extend .f-12 span
+{
+    text-transform: capitalize;
+}

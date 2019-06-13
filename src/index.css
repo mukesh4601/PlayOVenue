@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+body {
+    font-family: 'Quicksand', sans-serif !important;
+}
+
+.container-fluid {
+    padding: 0px !important;
+    height: 100vh;
+    position: relative;
+}

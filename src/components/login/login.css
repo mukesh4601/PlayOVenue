@@ -1,0 +1,91 @@
+.l6 {
+    background-image: url(../../assests/images/rightlog.jpeg);
+    background-size: contain;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+}
+
+.r6 {
+    padding: 80px 50px;
+    margin-top: 100px;
+}
+
+.r6 input {
+    text-transform: capitalize;
+    font-size: 13px !important;
+    padding: 15px 0px !important;
+    border-bottom: 1px solid #c0c9d4 !important;
+    color: #555;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0px;
+    background-color: #fcfcfc;
+}
+
+.r6 input:focus {
+    box-shadow: none !important;
+    border-bottom: 1px solid #c0c9d4 !important;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0px;
+    background-color: #fcfcfc;
+}
+
+.r6 label {
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #555;
+}
+
+.f-12 {
+    margin: 40px 0px;
+}
+
+.a-12 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.a-12 a {
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #0E2DA5;
+    text-decoration: underline;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.datehide {
+    display: none;
+}
+
+button {
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    padding: 10px 20px !important;
+    background-color: #0E2DA5 !important;
+    color: #fff !important;
+    border-radius: 0px !important;
+    text-transform: uppercase;
+    border: 1px solid #0E2DA5 !important;
+    text-align: center !important;
+}
+
+button:hover {
+    background-color: #fff !important;
+    color: #0E2DA5 !important;
+}
+
+button:focus {
+    box-shadow: none !important;
+}
+
+.small {
+    text-transform: initial !important;
+}

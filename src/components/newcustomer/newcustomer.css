@@ -1,0 +1,117 @@
+.cusdata.lnc {
+    padding: 70px;
+}
+
+.cusdata.rnc {
+    padding: 20px;
+    margin-top: 20px;
+}
+
+
+.classparents .form-group {
+    margin-bottom: 70px;
+}
+
+.addchild {
+    float: right;
+}
+
+.cusdata input,
+select {
+    text-transform: capitalize;
+    font-size: 12px !important;
+    padding: 15px 0px !important;
+    border-bottom: 1px solid #c0c9d4 !important;
+    color: #555;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-radius: 0px;
+    background-color: #fcfcfc !important;
+}
+
+.cusdata input:focus,
+select:focus {
+    box-shadow: none !important;
+    border-bottom: 1px solid #c0c9d4 !important;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0px;
+    background-color: #fcfcfc;
+}
+
+.cusdata label {
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #555;
+}
+
+.childtbl {
+    border: 1px solid #fff;
+    box-shadow: 5px 7px 15px #ddd;
+    padding: 25px 25px 25px 40px;
+    margin-bottom: 50px;
+}
+
+.childtbl p {
+    color: #0E2DA5;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+.container-fluid {
+    padding: 0px !important;
+    height: 100vh;
+    position: relative;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.customerpanel {
+    box-sizing: border-box;
+    padding: 50px !important;
+    background: #fcfcfc;
+}
+
+.buttons li a {
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    padding: 12px 20px !important;
+    background-color: #0E2DA5 !important;
+    color: #fff !important;
+    border-radius: 0px;
+    text-transform: uppercase;
+    border: 1px solid #0E2DA5;
+    text-align: center;
+    border-radius: 0px !important;
+}
+
+.buttons li a:hover {
+    background-color: #fff !important;
+    color: #0E2DA5 !important;
+    border: 1px solid #326dcc;
+}
+
+.buttons li a:focus {
+    box-shadow: none !important;
+}
+
+.frm {
+    margin-top: 30px;
+}
+
+.l-md-6 {
+    position: fixed;
+}
+
+.r-md-6 {
+    position: absolute !important;
+    top: 0;
+    height: 100vh;
+    overflow: scroll;
+}
