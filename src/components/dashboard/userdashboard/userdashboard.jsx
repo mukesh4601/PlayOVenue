@@ -36,6 +36,8 @@ class UserDashboard extends Component {
                 pathname: '/',
             });
         }
+
+
         await this.props.dashboardata();
         await this.props.allproducts();
         let allproducts = [];
@@ -48,6 +50,8 @@ class UserDashboard extends Component {
         sessionStorage.setItem("products", JSON.stringify(this.props.products.products.items));
         let result = sessionStorage.getItem("items");
     }
+
+
 
     safeZoneMarkup() {
         let t = [];

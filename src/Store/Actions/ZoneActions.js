@@ -37,6 +37,7 @@ export const activity = values => dispatch => {
             }
         }
     ).then(res => {
+        alert("Successfully Created");
         dispatch(ACTIVITY(res.data.item));
     })
         .catch(error => {

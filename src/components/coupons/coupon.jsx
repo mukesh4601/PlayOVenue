@@ -68,9 +68,10 @@ class Coupons extends Component {
                 RFIDID: presult.rfidId
             }]
         }).then(() => {
-            this.props.history.push({
-                pathname: '/userdashboard',
-            });
+            this.props.history.push(
+                {
+                    pathname: '/userdashboard',
+                });
         })
     }
 

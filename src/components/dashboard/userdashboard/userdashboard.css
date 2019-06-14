@@ -96,6 +96,7 @@ nav.nav.nav-tabs {
 
 .pd12 {
     padding: 0px 30px;
+    margin-bottom: 20px;
 }
 
 .nav-link {
@@ -137,7 +138,7 @@ select {
     text-transform: capitalize;
     font-size: 12px !important;
     padding: 15px 0px !important;
-    border-bottom: 1px solid #c0c9d4!important;
+    border-bottom: 1px solid #c0c9d4 !important;
     color: #555;
     border-top: none !important;
     border-left: none !important;
